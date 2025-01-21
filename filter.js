@@ -60,7 +60,7 @@ const games = [
         genres: ["Survival", "Action-Adventure"],
         platforms: ["pc", "playstation", "xbox", "switch"],
         price: 20.00,
-        image: "images/minecraft.jpg",
+        image: "./images/minecraft.jpg",
         description: "Minecraft is a 3D sandbox video game where players build, explore, and survive in a virtual world. Players can use blocks to create structures, craft items, and battle creatures. ",
         // Additional Info for the minecraft page //
         releasedate: "November 18, 2011",
@@ -104,7 +104,7 @@ const games = [
         genres: ["First-Person Shooter", "Action-Adventure", "Adventure"],
         platforms: ["pc", "playstation", "xbox", "switch"],
         price: 49.99,
-        image: "images/borderlands3.jpg",
+        image: "./images/borderlands3.jpg",
         description: "Play solo or party up in co-op to take on deranged enemies, score loads of loot, and save the galaxy from a fanatical threat.",
         // Additional Info for the borderlands page
         releasedate: "September 13, 2019",
@@ -148,7 +148,7 @@ const games = [
         genres: ["Auto-Battler", "Strategy"],
         platforms: ["pc", "mobile"],
         price: 0,
-        image: "images/teamfighttactics.jpg",
+        image: "./images/teamfighttactics.jpg",
         description: "Teamfight Tactics (TFT) is a multiplayer, auto-battler game where players build teams of champions to compete in round-based battles.",
         // Additional info for TFT page
         releasedate: "June 26, 2019",
@@ -194,7 +194,7 @@ const games = [
         genres: ["Action", "Adventure"],
         platforms: ["pc", "playstation", "xbox"],
         price: 29.99,
-        image: "images/grandtheftauto5.jpg",
+        image: "./images/grandtheftauto5.jpg",
         description: "Grand Theft Auto V (GTA 5) is an action-adventure game released in 2013. It's about three criminals who work together to pull off heists in the fictional city of Los Santos.",
         // Aditional info for GTA 5 
         releasedate: "September 17, 2013",
@@ -242,7 +242,7 @@ const games = [
         genres: ["Simulation", "Casual"],
         platforms: ["switch"],
         price: 49.99,
-        image: "images/animalcrossingnewhorizons.jpg",
+        image: "./images/animalcrossingnewhorizons.jpg",
         description: "Develop a deserted island into a thriving community...",
         // Additional info for AC:NH
         releasedate: "March 20, 2020",
@@ -289,7 +289,7 @@ const games = [
         genres: ["Fighting", "Action"],
         platforms: ["switch"],
         price: 59.99,
-        image: "images/supersmashbrosultimate.jpg",
+        image: "./images/supersmashbrosultimate.jpg",
         description: "Nintendo's iconic crossover fighting game...",
         // Aditional info for SSBU
         releasedate: "December 7, 2018",
@@ -337,7 +337,7 @@ const games = [
         genres: ["Shooter"],
         platforms: ["pc", "playstation", "xbox"],
         price: 0,
-        image: "images/marvelrivals.jpg",
+        image: "./images/marvelrivals.jpg",
         description: "Marvel Rivals is an hero shooter video game developed and published by NetEase Games in collaboration with Marvel Games.",
         // Additional info for Marvel Rivals
         releasedate: "6 December, 2024",
@@ -381,7 +381,7 @@ const games = [
         genres: ["Shooter"],
         platforms: ["pc", "playstation", "xbox"],
         price: 69.99,
-        image: "images/blackops6.jpg",
+        image: "./images/blackops6.jpg",
         description: "Developed by Treyarch and Raven, Black Ops 6 is a spy action thriller set in the early 90s, a period of transition and upheaval in global politics.",
         // Additional info for cod6
         releasedate: "25 October, 2024",
@@ -425,7 +425,7 @@ const games = [
         genres: ["Indie"],
         platforms: ["pc"],
         price: 8.50,
-        image: "images/lethalcompany.png",
+        image: "./images/lethalcompany.png",
         description: "A co-op horror roguelite about an abandoned industrial moon.",
         // Additional info for lethal company
         releasedate: "October 23, 2023",
@@ -471,7 +471,7 @@ const games = [
         genres: ["Shooter", "Adventure"],
         platforms: ["pc", "playstation", "xbox"],
         price: 34.99,
-        image: "images/residentevil2.jpg",
+        image: "./images/residentevil2.jpg",
         description: "Resident Evil 2 is a remake of 1998's Resident Evil 2. The game was not developed with the intent of improving the original, but rather a reimagining of the original story with redesigned maps, characters and story elements.",
         // Additional info for RE2
         releasedate: "January 25, 2019",
@@ -519,7 +519,7 @@ const games = [
         genres: ["Action", "RPG"],
         platforms: ["pc", "playstation", "xbox"],
         price: 59.99,
-        image: "images/eldenring.jpg",
+        image: "./images/eldenring.jpg",
         description: "Explore a vast open world full of mystery and challenge in this epic dark fantasy RPG.",
         // Additional info for Elden Ring
         releasedate: "February 25, 2022",
@@ -568,7 +568,7 @@ const games = [
         genres: ["Sports", "Simulation"],
         platforms: ["pc", "playstation", "xbox", "switch"],
         price: 69.99,
-        image: "images/fifa24.jpg",
+        image: "./images/fifa24.jpg",
         description: "Experience the beautiful game with updated teams, mechanics and realistic gameplay.",
         // Additional info for FIFA 24
         releasedate: "September 29, 2023",
@@ -612,7 +612,7 @@ const games = [
         genres: ["RPG", "Simulation"],
         platforms: ["pc", "playstation", "xbox", "switch", "mobile"],
         price: 14.99,
-        image: "images/stardewvalley.jpg",
+        image: "./images/stardewvalley.jpg",
         description: "Build your dream farm, make friends, and discover the secrets of the valley in this charming RPG.",
         // Additional info for Stardew Valley
         releasedate: "February 26, 2016",
@@ -661,7 +661,7 @@ const games = [
         genres: ["Puzzle", "Action"],
         platforms: ["pc", "playstation", "xbox"],
         price: 9.99,
-        image: "images/portal2.jpg",
+        image: "./images/portal2.jpg",
         description: "Think with portals in this mind-bending puzzle game featuring single and co-op play.",
         // Additional info for Portal 2
         releasedate: "April 19, 2011",
@@ -710,7 +710,7 @@ const games = [
         genres: ["Sports", "Action"],
         platforms: ["pc", "playstation", "xbox", "switch"],
         price: 0,
-        image: "images/rocketleague.jpg",
+        image: "./images/rocketleague.jpg",
         description: "Soccer meets rocket-powered cars in this high-flying competitive game.",
         // Additional Info for Rocket League
         releasedate: "July 7, 2015",
@@ -759,7 +759,7 @@ const games = [
         genres: ["Strategy", "Simulation"],
         platforms: ["pc", "playstation", "xbox", "switch"],
         price: 29.99,
-        image: "images/civ6.jpg",
+        image: "./images/civ6.jpg",
         description: "Build an empire to stand the test of time in this epic strategy game.",
         // Additional info for CIV6
         releasedate: "October 21, 2016",
@@ -808,7 +808,7 @@ const games = [
         genres: ["Platformer", "Action"],
         platforms: ["pc", "playstation", "xbox", "switch"],
         price: 15.99,
-        image: "images/hollowknight.png",
+        image: "./images/hollowknight.png",
         description: "Explore a vast underground kingdom of insects and heroes in this challenging metroidvania.",
         // Additional info for Hollow Knight
         releasedate: "February 24, 2017",
@@ -857,7 +857,7 @@ const games = [
         genres: ["Sports", "Simulation"],
         platforms: ["pc", "playstation", "xbox", "switch"],
         price: 59.99,
-        image: "images/nba2k24.jpg",
+        image: "./images/nba2k24.jpg",
         description: "Experience the most realistic basketball simulation with updated rosters and features.",
         // Additional info for NBA2K24
         releasedate: "September 8, 2023",
@@ -905,7 +905,7 @@ const games = [
         genres: ["Action", "Adventure"],
         platforms: ["pc", "playstation", "xbox"],
         price: 39.99,
-        image: "images/rdr2.jpg",
+        image: "./images/rdr2.jpg",
         description: "Live the life of an outlaw in this epic tale of loyalty and survival in the Old West.",
         // Additional info for red dead 2
         releasedate: "October 26, 2018",
@@ -955,7 +955,7 @@ const games = [
         genres: ["Action", "RPG"],
         platforms: ["pc", "playstation", "xbox", "switch"],
         price: 24.99,
-        image: "images/hades.jpg",
+        image: "./images/hades.jpg",
         description: "Battle out of hell in this fast-paced roguelike featuring Greek mythology.",
         // Additional info for Hades
         releasedate: "September 17, 2020",
@@ -1005,7 +1005,7 @@ const games = [
         genres: ["Platformer", "Action"],
         platforms: ["pc", "playstation", "xbox", "switch"],
         price: 0,
-        image: "images/fallguys.jpg",
+        image: "./images/fallguys.jpg",
         description: "Compete in crazy obstacle courses against 60 players in this wacky battle royale.",
         // Additional info for fall guys
         releasedate: "August 4, 2020",
@@ -1054,7 +1054,7 @@ const games = [
         genres: ["RPG", "Action"],
         platforms: ["pc", "playstation", "xbox", "switch"],
         price: 39.99,
-        image: "images/witcher3.jpg",
+        image: "./images/witcher3.jpg",
         description: "Hunt monsters and make tough choices in this epic fantasy RPG.",
         // Additional info for the witcher 3
         releasedate: "May 19, 2015",
@@ -1103,7 +1103,7 @@ const games = [
         genres: ["Strategy", "Action"],
         platforms: ["pc", "playstation", "xbox", "switch", "mobile"],
         price: 4.99,
-        image: "images/amongus.jpg",
+        image: "./images/amongus.jpg",
         description: "Work together to complete tasks or secretly sabotage as the impostor.",
         // Additional info for among us
         releasedate: "June 15, 2018",
@@ -1151,7 +1151,7 @@ const games = [
         genres: ["Platformer", "Action"],
         platforms: ["pc", "playstation", "xbox", "switch"],
         price: 19.99,
-        image: "images/celeste.jpg",
+        image: "./images/celeste.jpg",
         description: "Master precise platforming controls as you climb a mysterious mountain.",
         // Additional info for Celeste
         releasedate: "January 25, 2018",
@@ -1200,7 +1200,7 @@ const games = [
         genres: ["Simulation", "Strategy"],
         platforms: ["pc", "playstation", "xbox", "switch"],
         price: 29.99,
-        image: "images/citiesskylines.jpg",
+        image: "./images/citiesskylines.jpg",
         description: "Build and manage the city of your dreams in this deep city-building simulator.",
         // Additional info for City Skylines
         releasedate: "October 24, 2023",
@@ -1248,7 +1248,7 @@ const games = [
         genres: ["Sports", "Racing"],
         platforms: ["pc", "xbox"],
         price: 59.99,
-        image: "images/forzahorizon5.jpg",
+        image: "./images/forzahorizon5.jpg",
         description: "Race through a stunning open world Mexico in hundreds of detailed vehicles.",
         // Additional info for Forza Horizon 5 
         releasedate: "November 9, 2021",
@@ -1296,7 +1296,7 @@ const games = [
         genres: ["Action", "Adventure"],
         platforms: ["pc", "playstation", "xbox", "switch", "mobile"],
         price: 9.99,
-        image: "images/terraria.jpg",
+        image: "/.images/terraria.jpg",
         description: "Dig, fight, explore, and build in this 2D adventure game with endless possibilities.",
         // Additional info for Terraria
         releasedate: "May 16, 2011",
