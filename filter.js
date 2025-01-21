@@ -60,7 +60,7 @@ const games = [
         genres: ["Survival", "Action-Adventure"],
         platforms: ["pc", "playstation", "xbox", "switch"],
         price: 20.00,
-        image: "/bryn-game-discovery/images/minecraft.jpg",
+        image: "./Images/minecraft.jpg",
         description: "Minecraft is a 3D sandbox video game where players build, explore, and survive in a virtual world. Players can use blocks to create structures, craft items, and battle creatures. ",
         // Additional Info for the minecraft page //
         releasedate: "November 18, 2011",
