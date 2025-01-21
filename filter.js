@@ -1296,7 +1296,7 @@ const games = [
         genres: ["Action", "Adventure"],
         platforms: ["pc", "playstation", "xbox", "switch", "mobile"],
         price: 9.99,
-        image: "/.images/terraria.jpg",
+        image: "./images/terraria.jpg",
         description: "Dig, fight, explore, and build in this 2D adventure game with endless possibilities.",
         // Additional info for Terraria
         releasedate: "May 16, 2011",
